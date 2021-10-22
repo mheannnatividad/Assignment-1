@@ -1,0 +1,7 @@
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\bin\Debug\Full Name.exe.config
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\bin\Debug\Full Name.exe
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\bin\Debug\Full Name.pdb
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\obj\Debug\Full Name.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\obj\Debug\Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\obj\Debug\Full Name.exe
+C:\Users\Computer\Desktop\Program\Assignment-1\Full Name\Full Name\obj\Debug\Full Name.pdb
