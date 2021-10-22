@@ -10,7 +10,7 @@ namespace Full_Name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mary Ann Natividad");
+            Console.WriteLine("Mary Ann Bernardo Natividad");
             Console.ReadLine();
             
         }
