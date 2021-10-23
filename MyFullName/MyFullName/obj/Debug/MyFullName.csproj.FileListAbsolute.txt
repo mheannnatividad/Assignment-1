@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.Form1.resources
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.Properties.Resources.resources
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\bin\Debug\MyFullName.exe.config
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\bin\Debug\MyFullName.exe
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\bin\Debug\MyFullName.pdb
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.exe
+C:\Users\Computer\Desktop\Program\MyFullName\MyFullName\obj\Debug\MyFullName.pdb
